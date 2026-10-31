@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"C1","1","10uF","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0805_2012Metric",""
+"C2","1","100nF","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0805_2012Metric",""
+"J1","1","Conn_01x05","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical",""
+"U1","1","XIAO-RP2040-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","OPLFootprints:XIAO-RP2040-SMD",""
+"U2","1","74AHCT125","","","","","${EXCLUDE_FROM_POS_FILES}","Package_SO:SOIC-14_3.9x8.7mm_P1.27mm","https://www.ti.com/lit/ds/symlink/sn74ahct125.pdf"
